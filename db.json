@@ -1,0 +1,37 @@
+{
+  "uploadVideos": [
+    {
+      "id": "3a65",
+      "caption": "Css",
+      "imgURL": "https://1000logos.net/wp-content/uploads/2020/09/CSS-Logo-2011.png",
+      "youtubeLink": "https://www.youtube.com/embed/yfoY53QXEnI"
+    }
+  ],
+  "categories": [
+    {
+      "id": "07e0",
+      "categoryName": "Program language",
+      "allVideos": [
+        {
+          "id": "2195",
+          "caption": "Html",
+          "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/800px-HTML5_logo_and_wordmark.svg.png",
+          "youtubeLink": "https://www.youtube.com/embed/UB1O30fR-EE"
+        },
+        {
+          "id": "8834",
+          "caption": "javaScript",
+          "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/768px-JavaScript-logo.png",
+          "youtubeLink": "https://www.youtube.com/embed/PkZNo7MFNFg"
+        },
+        {
+          "id": "48dc",
+          "caption": "python",
+          "imgURL": "https://i0.wp.com/junilearning.com/wp-content/uploads/2020/06/python-programming-language.webp?fit=1920%2C1920&ssl=1",
+          "youtubeLink": "https://www.youtube.com/embed/_uQrJ0TkZlc"
+        }
+      ]
+    }
+  ],
+  "history": []
+}
